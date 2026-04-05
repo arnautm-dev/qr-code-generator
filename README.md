@@ -7,7 +7,7 @@ It also attempts to copy the generated image to the system clipboard automatical
 ## Features
 
 - Generates a PNG file containing the QR code.
-- Saves the QR image to the downloads folder (`Descarregues`, `Descargas`, `Downloads` or similar).
+- Saves the QR image to the downloads folder (`Downloads` or similar).
 - Copies the image to the clipboard when possible.
 - Automatically installs missing Python dependencies.
 
