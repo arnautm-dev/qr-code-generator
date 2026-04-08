@@ -32,13 +32,13 @@ pip install qrcode[pil] pillow pyperclip
 Run the script with Python:
 
 ```bash
-python main.py
+py main.py
 ```
 
 You can also pass the text or URL as command-line arguments:
 
 ```bash
-python main.py https://example.com
+py main.py https://example.com
 ```
 
 If no argument is provided, the script will ask you to enter text manually.
